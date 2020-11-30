@@ -12,4 +12,4 @@ Steps for setup the program :-
 
 ### GUI Image of The program.
 
-<img src='https://github.com/rishabhjainfinal/Password-Strength-Checker/blob/main/gui.png'>
+<img src='https://github.com/rishabhjainfinal/Password-Strength-Checker/blob/main/ss_gui.png'>
